@@ -1,0 +1,6 @@
+*~
+tests/__pycache__
+sortpy/__pycache__
+dist
+build
+sortpy.egg-info
